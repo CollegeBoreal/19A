@@ -15,7 +15,7 @@
 | ENG1010	                                                       | Prep. English for Professional Communication |                        |
 | MAT1018	                                                       | Mathématiques informatiques                  |                        |
 | INF1035	                                                       | Logiciels d'applications                     |                        |
-| [INF1039](https://github.com/CollegeBoreal/INF1039-201-19 A-02) | Introduction aux algorithmes                 | (BR)                   |
+| [INF1039](https://github.com/CollegeBoreal/INF1039-201-19A-02) | Introduction aux algorithmes                 | (BR)                   |
 | INF1040	                                                       | Introduction à la réseautique                |                        |
 | INF1074	                                                       | Systèmes d'exploitation et ordinateurs       |                        |
 
