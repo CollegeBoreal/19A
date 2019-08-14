@@ -26,6 +26,6 @@
 | [INF1006](https://github.com/CollegeBoreal/INF1006-202-19A-02) | Système de gestion de bases de données       |  (BR)                  |
 | INF1023                                                        | Réseaux locaux et à distance                 |  (RE)                  |
 | INF1083                                                        | Développement d'applications                 |  (BR)                  |
-| [INF1084]                                                      | Administration Windows                       |                        |
+| INF1084                                                        | Administration Windows                       |                        |
 | [INF1085](https://github.com/CollegeBoreal/INF1085-201-19A-02) | Administration Linux                         |  (BR)                  |
 
