@@ -13,11 +13,11 @@
 |:---------------------------------------------------------------|:-------------------------------------------- |:-----------------------| 
 | FRA1005	                                                       | Français I                                   | (LB)                   |
 | ENG1010	                                                       | Prep. English for Professional Communication |                        |
-| MAT1018	                                                       | Mathématiques informatiques                  |                        |
-| INF1035	                                                       | Logiciels d'applications                     |                        |
+| MAT1018	                                                       | Mathématiques informatiques                  | (A?)                   |
+| INF1035	                                                       | Logiciels d'applications                     | (LK)                   |
 | [INF1039](https://github.com/CollegeBoreal/INF1039-201-19A-02) | Introduction aux algorithmes                 | (BR)                   |
-| INF1040	                                                       | Introduction à la réseautique                |                        |
-| INF1074	                                                       | Systèmes d'exploitation et ordinateurs       |                        |
+| INF1040	                                                       | Introduction à la réseautique                | (RE)                   |
+| INF1074	                                                       | Systèmes d'exploitation et ordinateurs       | (EF)                   |
 
 ## ÉTAPE 3
 
@@ -26,6 +26,6 @@
 | [INF1006](https://github.com/CollegeBoreal/INF1006-202-19A-02) | Système de gestion de bases de données       |  (BR)                  |
 | INF1023                                                        | Réseaux locaux et à distance                 |  (RE)                  |
 | INF1083                                                        | Développement d'applications                 |  (BR)                  |
-| INF1084                                                        | Administration Windows                       |                        |
+| INF1084                                                        | Administration Windows                       |  (Ro)                  |
 | [INF1085](https://github.com/CollegeBoreal/INF1085-201-19A-02) | Administration Linux                         |  (BR)                  |
 
