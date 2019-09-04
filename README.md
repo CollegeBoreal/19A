@@ -27,5 +27,5 @@
 | INF1023                                                        | Réseaux locaux et à distance                 |  (RE)                  |
 | INF1083                                                        | Développement d'applications                 |  (BR)                  |
 | INF1084                                                        | Administration Windows                       |  (JMN)                 |
-| [INF1085](https://github.com/CollegeBoreal/INF1085-201-19A-02) | Administration Linux                         |  (BR)                  |
+| [INF1085](https://github.com/CollegeBoreal/INF1085-200-19A-01) | Administration Linux                         |  (BR)                  |
 
